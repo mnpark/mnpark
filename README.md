@@ -5,7 +5,7 @@
    spending time with cool people,
    and learning new things!
 
-🌱 I am currently a student learning R and Python
+🌱 Currently learning R and Python
 
 
 <!--
