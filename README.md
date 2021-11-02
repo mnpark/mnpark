@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to Michelle's GitHub! ✨
+💜 Pronouns: she/her/hers
+💫 I love listening to good music,
+   spending time with cool people,
+   and learning new things!
+🌱 I am currently a student learning R and Python
+
 
 <!--
 **mnpark/mnpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
