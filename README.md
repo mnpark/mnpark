@@ -1,4 +1,4 @@
-### Welcome to Michelle's GitHub! ✨
+# You've reached Michelle's GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 💜 Pronouns: she/her/hers
 
 💫 I love listening to good music,
